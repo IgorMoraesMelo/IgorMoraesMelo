@@ -1,5 +1,5 @@
 - 👋 Olá, Sou @IgorMoraesMelo
-- 👀 Busco uma primeira oportunidade na area de programação (Estágio)
+- 👀 Estagiario Desenvolvedor Mobile Android e IOS
 - 🌱 No momento estou aprofundando em FrontEnd (HTML, CSS, Java Scrit...)
 - 💞️ Procuro colaborar em projetos web...
 - 📫 https://www.linkedin.com/in/igor-melo-1869461ab/

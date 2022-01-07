@@ -1,7 +1,7 @@
 <h3>👋 Olá, Sou @IgorMoraesMelo</h3>
 
-- 💻 Estagiario Desenvolvedor Mobile Android e IOS
-- 🌱 No momento estou aprofundando em FrontEnd (HTML, CSS, Java Script...)
+- 💻 Estagiario em Desenvolvimento Android
+- 🌱 No momento estou aprofundando em Mobile, estudando a linguagem Java e Kotlin
 - 📫 https://www.linkedin.com/in/igor-melo-1869461ab/
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">

@@ -35,7 +35,7 @@ Aqui estão algumas das principais ferramentas e linguagens com as quais tenho e
 ## 👤 Perfil pessoal
 
 Para saber mais sobre mim, meus projetos públicos e contribuições, você pode visitar meu perfil pessoal aqui:<br/>
-🔗 [github.com/IgorMeloMoraes](https://github.com/IgorMeloMoraes)
+🔗 [Perfil Principal](https://github.com/IgorMeloMoraes)
 
 ---
 

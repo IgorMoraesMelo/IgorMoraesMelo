@@ -1,8 +1,27 @@
-<h3>👋 Olá, Sou @IgorMoraesMelo</h3>
+<h3>👋 Olá, Sou Igor Moraes</h3>
 
-- 💻 Estagiario em Desenvolvimento Android
-- 🌱 No momento estou aprofundando em Mobile, estudando a linguagem Java e Kotlin
-- 📫 https://www.linkedin.com/in/igor-melo-1869461ab/
+Este espaço foi criado para centralizar meus estudos, projetos pessoais e trabalhos desenvolvidos ao longo da minha formação acadêmica e pessoal.
+
+## 🎓 Sobre esta organização
+
+Nesta organização, você encontrará:
+
+* 📚 **Trabalhos acadêmicos** Desenvolvidos durante o curso de Ciência da Computação;
+* 🧪 **Projetos experimentais** para praticar novas tecnologias, linguagens e ferramentas;
+* 🚀 **Repositórios pessoais** que refletem minha jornada de aprendizado e evolução como desenvolvedor.
+
+## 🛠️ Tecnologias e ferramentas que estou estudando
+
+Aqui estão algumas das principais ferramentas e linguagens com as quais tenho estudado e desenvolvido ao longo dos últimos anos:
+
+### Tecnologias e Ferramentas Aprendidas no Ambiente Acadêmico:
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql,php,react,python,c,cpp)](https://skillicons.dev)
+
+### Tecnologias e Ferramentas Desenvolvidas em Projetos Pessoais:
+[![My Skills](https://skillicons.dev/icons?i=android,androidstudio,java,kotlin,flutter,dart)](https://skillicons.dev)
+
+### Tecnologias e Ferramentas Desenvolvidas em Experimentos:
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,mysql,git,github,figma,vscode,postman)](https://skillicons.dev)
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 <i class="devicon-cplusplus-plain colored"></i>
@@ -12,25 +31,14 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IgorMoraesMelo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorMoraesMelo&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-  
- <div style="display: inline_block"><br>
-    <img align="center" alt="Igor-Android" heigth="30" width="40" src="https://icongr.am/devicon/android-original.svg">
-    <img align="center" alt="Igor-Android" heigth="30" width="40" src="https://icongr.am/devicon/java-original.svg">
-    <img align="center" alt="Igor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Igor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Igor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Igor-Android" heigth="30" width="40" src="https://icongr.am/devicon/git-original.svg">
-    <img align="center" alt="Igor-Android" heigth="30" width="40" src="https://icongr.am/devicon/oracle-original.svg">
-     
-</div>
-  
- ##
-  
-  <div>
-  <a href="https://www.instagram.com/moraes.i/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="#" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
- <a href="https://www.linkedin.com/in/igor-melo-1869461ab/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:igorbatistamelo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  </div>
+    
+## 👤 Perfil pessoal
+
+Para saber mais sobre mim, meus projetos públicos e contribuições, você pode visitar meu perfil pessoal aqui:<br/>
+🔗 [github.com/IgorMeloMoraes](https://github.com/IgorMeloMoraes)
+
+---
+
+Sinta-se à vontade para explorar os repositórios, deixar uma estrela ⭐ ou me chamar para conversar sobre qualquer projeto ou tecnologia!
   
   
